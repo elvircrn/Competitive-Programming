@@ -1,0 +1,32 @@
+2. place Drzavno takmicenje iz informatike 2014 (razigravanje)
+2. place Drzavno takmicenje iz informatike 2015
+
+Participated in the 2011 junior Balkan Olympiad in Informatics in Bistrita, Romania.
+Participated in the 2013 Balkan Olympiad in Informatics in Sarajevo, Bosnia and Herzegovina
+Bronze medal at the 2014 Balkan Olympiad in Informatics in Ankara, Turkey
+Participated in the 2015 Balkan Olympiad in Informatics in Ruse, Bulgaria
+
+Participated in the 2014 International Olympiad in Informatics in Taipei, Taiwan
+Participated in the 2015 International Olympiad in Informatics in Almaty, Khazakstan
+
+Participated in the 24-hour IEEEXtreme 9.0 team programming competition http://www.ieee.org/membership_services/membership/students/competitions/xtreme/index.html (ranked top 100, team name: SarajevoDragons, although I am unable to find the ranking list online so you will unfortunately have to take my word for it).
+
+codeforces profile: http://www.codeforces.com/profile/elvircrn
+
+More information about the type and format about the aforementioned competitions: https://en.wikipedia.org/wiki/Competitive_programming
+
+Participated at the 2016 Elektrijada in Rimini, Italy (oblasti: informatika i objektno orijentisano programiranje);
+
+As a member of BHOI (Bosanskohercegovacka olimpijada iz informatike, www.bhoi.net, https://www.facebook.com/groups/166950008924/), I have held and organized lectures at various programming camps and competitions for middle school, high school students:
+
+Lecturer at the "IV BHOI C++ Zimski Kamp - 2016 godina" for middle school and high school students; github of my lecture: https://github.com/BHOI/BHOI-Sekcije-i-Kampovi/tree/master/Januarski%20Kamp/Dan%203
+
+Lecturer at the "BHOI napredna sekcija": https://github.com/BHOI/BHOI-Sekcije-i-Kampovi/tree/master/Sekcije (2016)
+
+Problem setter at the " 2016 juniorsko BHOI drzavno takmicenje iz informatike" and "BHOI dravno takmicenje": https://github.com/BHOI/BHOI-takmicenja-iz-informatike/tree/master/BHOI%202016 and at various online competitions in 2016.
+
+Held a lecture as a part of preparation for the BiH high school team for the Balkan Olympiad in informatics; https://github.com/BHOI/BHOI-Sekcije-i-Kampovi/tree/master/Pripreme%20za%20BOI%20kamp
+
+More info about these activities can be found at: http://www.bhoi.net/index.php/aktivnosti
+
+
